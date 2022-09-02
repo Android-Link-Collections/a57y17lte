@@ -170,6 +170,12 @@ TWRP 3.6.2_9
 * [Download A5](https://dl.twrp.me/a5y17lte/)
 * [Download A7](https://dl.twrp.me/a7y17lte/)
 
+Orangefox 11.1
+-----
+* [Download A5](https://orangefox.download/device/a5y17lte)
+* [Download A7](https://orangefox.download/device/a7y17lte)
+* thanks to @ZakosiliMiPeCeta
+
 SHRP 3.1
 =====
 * [XDA](https://forum.xda-developers.com/t/recovery-official-sky-hawk-recovery-project-2-2-for-galaxy-a5-a7-2017.4087523/)
@@ -184,7 +190,8 @@ Unofficial
 Orangefox 10.1
 -----
 * [XDA](https://forum.xda-developers.com/t/unofficial-recovery-r10-1-a5-a7-orange-fox-recovery-project.4056331/)
-* [Download](https://drive.google.com/drive/folders/1z8P5gbhksaWh4cjdrk9rEtTkr7d8YWvY)thanks to @SnowFuhrer
+* [Download](https://drive.google.com/drive/folders/1z8P5gbhksaWh4cjdrk9rEtTkr7d8YWvY)
+* thanks to @SnowFuhrer
 
 
 local manifests
